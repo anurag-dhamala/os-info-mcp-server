@@ -1,4 +1,4 @@
-# MCP server for news-data
+# MCP server for os info
 
 MCP server for getting up-to-date information about your operating system
 
@@ -42,14 +42,8 @@ You can also use <b>npx</b>.
 
 ## Example Prompts
 
-Give me latest news from USA trending today.
+Give me my os info
 
-Give me top news headlines from Nepal in Nepali language.
-
-Give me news sources from Bhutan.
-
-Give me latest news about Lionel Messi.
-
-Give me latest crypto news.
+What is my operating system
 
 ...
