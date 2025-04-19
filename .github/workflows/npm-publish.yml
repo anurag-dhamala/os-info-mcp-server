@@ -5,7 +5,7 @@ name: os info mcp server publish
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build:
